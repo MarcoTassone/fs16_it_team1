@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "massimo",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "name": "Andrea",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "name": "Francesco",
+      "password": "1234"
+    },
+    {
+      "id": 4,
+      "name": "Dennis",
+      "password": "4321"
+    },
+    {
+      "id": 5,
+      "name": "massimo1",
+      "password": "1234"
+    },
+    {
+      "id": 6,
+      "name": "12",
+      "password": "123"
+    },
+    {
+      "id": 7,
+      "name": "123",
+      "password": "123"
+    },
+    {
+      "id": 8,
+      "name": "pippo",
+      "password": "1234"
+    }
+  ]
+}
